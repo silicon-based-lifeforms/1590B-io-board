@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ACJS-IH")(type "KiCad")(uri "${KIPRJMOD}/lib/ACJS-IH.kicad_sym")(options "")(descr ""))
+  (lib (name "3PDT")(type "KiCad")(uri "${KIPRJMOD}/lib/3PDT.kicad_sym")(options "")(descr ""))
+)
