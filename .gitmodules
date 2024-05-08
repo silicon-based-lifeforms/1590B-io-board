@@ -1,0 +1,3 @@
+[submodule "lib/kicad-audio"]
+	path = lib/kicad-audio
+	url = git@github.com:silicon-based-lifeforms/kicad-audio
